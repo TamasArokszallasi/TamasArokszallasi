@@ -2,7 +2,7 @@
 - 👀 I’m interested in the field of Data, more precisely Data Science 
 - 🌱 I’m currently learning Python and its libraries related to Data Science
 - 💞️ I’m looking to collaborate on any Data related projects
-- 📫 How to reach me: arokthomas@gmail.com  
+- 📫 How to reach me: tamas.arokszallasi00@gmail.com  
 - ⚡ Fun fact: I studied Applied Economics as my BSc and International Economy and Business in Masters. Programming is my hobby
 
 <!---
